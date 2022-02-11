@@ -47,7 +47,7 @@
           <li class="nav-item"><a href="#" class="nav-link">Manage Account</a></li>
          </c:if>
          <li class="nav-item"><a href="category?cname=all" class="nav-link">Course</a></li>
-         <li class="nav-item"><a href="instructor.html" class="nav-link">Instructor</a></li>
+         <li class="nav-item"><a href="instructor.jsp" class="nav-link">Instructor</a></li>
          <li class="nav-item"><a href="blog.html" class="nav-link">Blog</a></li>
          <c:if test="${sessionScope.acc!=null}">
          <li class="nav-item"><a href="logout" class="nav-link">Log out</a></li>

@@ -15,7 +15,7 @@ import java.sql.DriverManager;
 public class Database {
      public  static Connection makeConnection() throws Exception {
         String connectionUrl="jdbc:sqlserver://localhost:1433;"
-        + "databaseName=Assignment;User=sa;Password=27112000";
+        + "databaseName=Assignment;User=sa;Password=12345";
         Class.forName("com.microsoft.sqlserver.jdbc.SQLServerDriver");
         Connection con = DriverManager.getConnection(connectionUrl);
         return con;

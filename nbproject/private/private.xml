@@ -11,6 +11,23 @@
         </file>
     </editor-bookmarks>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
+        <group>
+            <file>file:/D:/FPTU/SWP391/Project/SWP391-Project/web/addCategory.jsp</file>
+            <file>file:/D:/FPTU/SWP391/Project/SWP391-Project/web/manageCourseAdmin.jsp</file>
+            <file>file:/D:/FPTU/SWP391/Project/SWP391-Project/web/manageCourse.jsp</file>
+            <file>file:/D:/FPTU/SWP391/Project/SWP391-Project/web/about.jsp</file>
+            <file>file:/D:/FPTU/SWP391/Project/SWP391-Project/src/java/control/LoginControl.java</file>
+            <file>file:/D:/FPTU/SWP391/Project/SWP391-Project/web/addCourse.jsp</file>
+            <file>file:/D:/FPTU/SWP391/Project/SWP391-Project/web/newjsp.jsp</file>
+            <file>file:/D:/FPTU/SWP391/Project/SWP391-Project/web/courseDetail.jsp</file>
+            <file>file:/D:/FPTU/SWP391/Project/SWP391-Project/web/instructor.html</file>
+            <file>file:/D:/FPTU/SWP391/Project/SWP391-Project/src/java/context/Database.java</file>
+            <file>file:/D:/FPTU/SWP391/Project/SWP391-Project/web/editCourse.jsp</file>
+            <file>file:/D:/FPTU/SWP391/Project/SWP391-Project/web/instructor.jsp</file>
+            <file>file:/D:/FPTU/SWP391/Project/SWP391-Project/src/java/filter/RouteFilter.java</file>
+            <file>file:/D:/FPTU/SWP391/Project/SWP391-Project/src/java/control/LogoutControl.java</file>
+            <file>file:/D:/FPTU/SWP391/Project/SWP391-Project/web/index.jsp</file>
+            <file>file:/D:/FPTU/SWP391/Project/SWP391-Project/web/course.jsp</file>
+        </group>
     </open-files>
 </project-private>
